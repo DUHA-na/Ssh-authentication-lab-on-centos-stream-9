@@ -167,7 +167,7 @@ ssh.pdf
 ![img](images/ssh(14).png)
 ![img](images/ssh(16).png)
 ![img](images/ssh(21).png)
-![img](images/ssh(4).png)
+![img](images/ssh-port.png)
 
 ##Note 
 
